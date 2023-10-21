@@ -1,0 +1,15 @@
+C:\Users\alsul\OneDrive\Рабочий стол\HomeWork\Wokr1\bin\Debug\net6.0\Wokr1.exe
+C:\Users\alsul\OneDrive\Рабочий стол\HomeWork\Wokr1\bin\Debug\net6.0\Wokr1.deps.json
+C:\Users\alsul\OneDrive\Рабочий стол\HomeWork\Wokr1\bin\Debug\net6.0\Wokr1.runtimeconfig.json
+C:\Users\alsul\OneDrive\Рабочий стол\HomeWork\Wokr1\bin\Debug\net6.0\Wokr1.dll
+C:\Users\alsul\OneDrive\Рабочий стол\HomeWork\Wokr1\bin\Debug\net6.0\Wokr1.pdb
+C:\Users\alsul\OneDrive\Рабочий стол\HomeWork\Wokr1\obj\Debug\net6.0\Wokr1.csproj.AssemblyReference.cache
+C:\Users\alsul\OneDrive\Рабочий стол\HomeWork\Wokr1\obj\Debug\net6.0\Wokr1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alsul\OneDrive\Рабочий стол\HomeWork\Wokr1\obj\Debug\net6.0\Wokr1.AssemblyInfoInputs.cache
+C:\Users\alsul\OneDrive\Рабочий стол\HomeWork\Wokr1\obj\Debug\net6.0\Wokr1.AssemblyInfo.cs
+C:\Users\alsul\OneDrive\Рабочий стол\HomeWork\Wokr1\obj\Debug\net6.0\Wokr1.csproj.CoreCompileInputs.cache
+C:\Users\alsul\OneDrive\Рабочий стол\HomeWork\Wokr1\obj\Debug\net6.0\Wokr1.dll
+C:\Users\alsul\OneDrive\Рабочий стол\HomeWork\Wokr1\obj\Debug\net6.0\refint\Wokr1.dll
+C:\Users\alsul\OneDrive\Рабочий стол\HomeWork\Wokr1\obj\Debug\net6.0\Wokr1.pdb
+C:\Users\alsul\OneDrive\Рабочий стол\HomeWork\Wokr1\obj\Debug\net6.0\Wokr1.genruntimeconfig.cache
+C:\Users\alsul\OneDrive\Рабочий стол\HomeWork\Wokr1\obj\Debug\net6.0\ref\Wokr1.dll
